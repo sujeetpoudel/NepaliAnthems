@@ -1,0 +1,6 @@
+framework module Pods_NepaliAnthems {
+  umbrella header "Pods-NepaliAnthems-umbrella.h"
+
+  export *
+  module * { export * }
+}
