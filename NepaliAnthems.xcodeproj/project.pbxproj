@@ -12,8 +12,29 @@
 		8851377123620CAD00FF94ED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8851377023620CAD00FF94ED /* ViewController.swift */; };
 		8851377423620CAD00FF94ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8851377223620CAD00FF94ED /* Main.storyboard */; };
 		8851377723620CAD00FF94ED /* NepaliAnthems.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8851377523620CAD00FF94ED /* NepaliAnthems.xcdatamodeld */; };
-		8851377923620CB500FF94ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8851377823620CB500FF94ED /* Assets.xcassets */; };
 		8851377C23620CB500FF94ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8851377A23620CB500FF94ED /* LaunchScreen.storyboard */; };
+		8851378423620F8100FF94ED /* flag-of-nepal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8851378323620F8100FF94ED /* flag-of-nepal.jpg */; };
+		8851378723629A4100FF94ED /* Shreeman Ghambhira Nepali.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8851378523629A4100FF94ED /* Shreeman Ghambhira Nepali.mp3 */; };
+		8851378823629A4100FF94ED /* Sayaun Thunga Ful Ka Hami.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8851378623629A4100FF94ED /* Sayaun Thunga Ful Ka Hami.mp3 */; };
+		8851378A23629B2E00FF94ED /* SongsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8851378923629B2E00FF94ED /* SongsTableViewController.swift */; };
+		8851378C2362A81F00FF94ED /* PlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8851378B2362A81F00FF94ED /* PlayViewController.swift */; };
+		888E6D4E236C9AAC005F8F43 /* flag.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 888E6D4D236C9AAC005F8F43 /* flag.jpeg */; };
+		88EE08E32364E146000E44B6 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08E12364E146000E44B6 /* play.png */; };
+		88EE08E42364E146000E44B6 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08E22364E146000E44B6 /* pause.png */; };
+		88EE08E6236787DC000E44B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08E5236787DC000E44B6 /* Assets.xcassets */; };
+		88EE08E823690FF4000E44B6 /* Gaunchha Geet Nepali.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08E723690FF4000E44B6 /* Gaunchha Geet Nepali.mp3 */; };
+		88EE08EA23691138000E44B6 /* Jhukdai Na Jhukne Nepal Ko Choro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08E923691138000E44B6 /* Jhukdai Na Jhukne Nepal Ko Choro.mp3 */; };
+		88EE08EC23691232000E44B6 /* Jaha Chan Buddha Ka Aankha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08EB23691232000E44B6 /* Jaha Chan Buddha Ka Aankha.mp3 */; };
+		88EE08EE2369131D000E44B6 /* Paschim Kohi Purba Ghar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08ED2369131C000E44B6 /* Paschim Kohi Purba Ghar.mp3 */; };
+		88EE08F0236913FF000E44B6 /* Yeha Deshko Cha Chinta.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08EF236913FE000E44B6 /* Yeha Deshko Cha Chinta.mp3 */; };
+		88EE08F2236914D0000E44B6 /* Yo Maan Ta Mero Nepali Ho.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08F1236914D0000E44B6 /* Yo Maan Ta Mero Nepali Ho.mp3 */; };
+		88EE08F423691599000E44B6 /* Saye Thari Baja Eutai Taal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08F323691599000E44B6 /* Saye Thari Baja Eutai Taal.mp3 */; };
+		88EE08F623691616000E44B6 /* Jaga Chamka Lamka He Naujawan Ho.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08F523691616000E44B6 /* Jaga Chamka Lamka He Naujawan Ho.mp3 */; };
+		88EE08F823691680000E44B6 /* Bihana Uthne Bittikai Himal Herna Paios.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08F723691680000E44B6 /* Bihana Uthne Bittikai Himal Herna Paios.mp3 */; };
+		88EE08FA236A2582000E44B6 /* Hatne Hoina Dati Ladne Nepali Ko Bani Huncha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08F9236A2582000E44B6 /* Hatne Hoina Dati Ladne Nepali Ko Bani Huncha.mp3 */; };
+		88EE08FC236A2678000E44B6 /* Pahad Ma Jado Bade Tarai Le Seknu Parcha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08FB236A2678000E44B6 /* Pahad Ma Jado Bade Tarai Le Seknu Parcha.mp3 */; };
+		88EE08FE236A2A09000E44B6 /* Danfe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08FD236A2A08000E44B6 /* Danfe.jpg */; };
+		88EE0900236A2B2C000E44B6 /* Map.png in Resources */ = {isa = PBXBuildFile; fileRef = 88EE08FF236A2B2C000E44B6 /* Map.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,9 +44,30 @@
 		8851377023620CAD00FF94ED /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8851377323620CAD00FF94ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8851377623620CAD00FF94ED /* NepaliAnthems.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = NepaliAnthems.xcdatamodel; sourceTree = "<group>"; };
-		8851377823620CB500FF94ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8851377B23620CB500FF94ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8851377D23620CB500FF94ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8851378323620F8100FF94ED /* flag-of-nepal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "flag-of-nepal.jpg"; sourceTree = "<group>"; };
+		8851378523629A4100FF94ED /* Shreeman Ghambhira Nepali.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Shreeman Ghambhira Nepali.mp3"; sourceTree = "<group>"; };
+		8851378623629A4100FF94ED /* Sayaun Thunga Ful Ka Hami.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sayaun Thunga Ful Ka Hami.mp3"; sourceTree = "<group>"; };
+		8851378923629B2E00FF94ED /* SongsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsTableViewController.swift; sourceTree = "<group>"; };
+		8851378B2362A81F00FF94ED /* PlayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayViewController.swift; sourceTree = "<group>"; };
+		888E6D4D236C9AAC005F8F43 /* flag.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flag.jpeg; sourceTree = "<group>"; };
+		88EE08E12364E146000E44B6 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		88EE08E22364E146000E44B6 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		88EE08E5236787DC000E44B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		88EE08E723690FF4000E44B6 /* Gaunchha Geet Nepali.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Gaunchha Geet Nepali.mp3"; sourceTree = "<group>"; };
+		88EE08E923691138000E44B6 /* Jhukdai Na Jhukne Nepal Ko Choro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jhukdai Na Jhukne Nepal Ko Choro.mp3"; sourceTree = "<group>"; };
+		88EE08EB23691232000E44B6 /* Jaha Chan Buddha Ka Aankha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jaha Chan Buddha Ka Aankha.mp3"; sourceTree = "<group>"; };
+		88EE08ED2369131C000E44B6 /* Paschim Kohi Purba Ghar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Paschim Kohi Purba Ghar.mp3"; sourceTree = "<group>"; };
+		88EE08EF236913FE000E44B6 /* Yeha Deshko Cha Chinta.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Yeha Deshko Cha Chinta.mp3"; sourceTree = "<group>"; };
+		88EE08F1236914D0000E44B6 /* Yo Maan Ta Mero Nepali Ho.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Yo Maan Ta Mero Nepali Ho.mp3"; sourceTree = "<group>"; };
+		88EE08F323691599000E44B6 /* Saye Thari Baja Eutai Taal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Saye Thari Baja Eutai Taal.mp3"; sourceTree = "<group>"; };
+		88EE08F523691616000E44B6 /* Jaga Chamka Lamka He Naujawan Ho.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jaga Chamka Lamka He Naujawan Ho.mp3"; sourceTree = "<group>"; };
+		88EE08F723691680000E44B6 /* Bihana Uthne Bittikai Himal Herna Paios.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bihana Uthne Bittikai Himal Herna Paios.mp3"; sourceTree = "<group>"; };
+		88EE08F9236A2582000E44B6 /* Hatne Hoina Dati Ladne Nepali Ko Bani Huncha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Hatne Hoina Dati Ladne Nepali Ko Bani Huncha.mp3"; sourceTree = "<group>"; };
+		88EE08FB236A2678000E44B6 /* Pahad Ma Jado Bade Tarai Le Seknu Parcha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pahad Ma Jado Bade Tarai Le Seknu Parcha.mp3"; sourceTree = "<group>"; };
+		88EE08FD236A2A08000E44B6 /* Danfe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Danfe.jpg; sourceTree = "<group>"; };
+		88EE08FF236A2B2C000E44B6 /* Map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Map.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,11 +103,32 @@
 				8851376C23620CAD00FF94ED /* AppDelegate.swift */,
 				8851376E23620CAD00FF94ED /* SceneDelegate.swift */,
 				8851377023620CAD00FF94ED /* ViewController.swift */,
+				8851378323620F8100FF94ED /* flag-of-nepal.jpg */,
 				8851377223620CAD00FF94ED /* Main.storyboard */,
-				8851377823620CB500FF94ED /* Assets.xcassets */,
+				88EE08EF236913FE000E44B6 /* Yeha Deshko Cha Chinta.mp3 */,
+				8851378B2362A81F00FF94ED /* PlayViewController.swift */,
+				88EE08E5236787DC000E44B6 /* Assets.xcassets */,
+				88EE08E22364E146000E44B6 /* pause.png */,
+				88EE08F723691680000E44B6 /* Bihana Uthne Bittikai Himal Herna Paios.mp3 */,
+				88EE08F9236A2582000E44B6 /* Hatne Hoina Dati Ladne Nepali Ko Bani Huncha.mp3 */,
+				888E6D4D236C9AAC005F8F43 /* flag.jpeg */,
+				88EE08FF236A2B2C000E44B6 /* Map.png */,
+				88EE08F523691616000E44B6 /* Jaga Chamka Lamka He Naujawan Ho.mp3 */,
+				88EE08F323691599000E44B6 /* Saye Thari Baja Eutai Taal.mp3 */,
+				88EE08F1236914D0000E44B6 /* Yo Maan Ta Mero Nepali Ho.mp3 */,
+				88EE08FB236A2678000E44B6 /* Pahad Ma Jado Bade Tarai Le Seknu Parcha.mp3 */,
+				88EE08ED2369131C000E44B6 /* Paschim Kohi Purba Ghar.mp3 */,
+				88EE08EB23691232000E44B6 /* Jaha Chan Buddha Ka Aankha.mp3 */,
+				88EE08E923691138000E44B6 /* Jhukdai Na Jhukne Nepal Ko Choro.mp3 */,
+				88EE08E723690FF4000E44B6 /* Gaunchha Geet Nepali.mp3 */,
+				88EE08E12364E146000E44B6 /* play.png */,
+				8851378523629A4100FF94ED /* Shreeman Ghambhira Nepali.mp3 */,
+				8851378623629A4100FF94ED /* Sayaun Thunga Ful Ka Hami.mp3 */,
+				88EE08FD236A2A08000E44B6 /* Danfe.jpg */,
 				8851377A23620CB500FF94ED /* LaunchScreen.storyboard */,
 				8851377D23620CB500FF94ED /* Info.plist */,
 				8851377523620CAD00FF94ED /* NepaliAnthems.xcdatamodeld */,
+				8851378923629B2E00FF94ED /* SongsTableViewController.swift */,
 			);
 			path = NepaliAnthems;
 			sourceTree = "<group>";
@@ -128,8 +191,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88EE0900236A2B2C000E44B6 /* Map.png in Resources */,
+				88EE08E32364E146000E44B6 /* play.png in Resources */,
+				88EE08F823691680000E44B6 /* Bihana Uthne Bittikai Himal Herna Paios.mp3 in Resources */,
+				88EE08FE236A2A09000E44B6 /* Danfe.jpg in Resources */,
+				88EE08F423691599000E44B6 /* Saye Thari Baja Eutai Taal.mp3 in Resources */,
+				88EE08EE2369131D000E44B6 /* Paschim Kohi Purba Ghar.mp3 in Resources */,
+				88EE08F0236913FF000E44B6 /* Yeha Deshko Cha Chinta.mp3 in Resources */,
+				888E6D4E236C9AAC005F8F43 /* flag.jpeg in Resources */,
+				88EE08EA23691138000E44B6 /* Jhukdai Na Jhukne Nepal Ko Choro.mp3 in Resources */,
 				8851377C23620CB500FF94ED /* LaunchScreen.storyboard in Resources */,
-				8851377923620CB500FF94ED /* Assets.xcassets in Resources */,
+				88EE08E42364E146000E44B6 /* pause.png in Resources */,
+				8851378823629A4100FF94ED /* Sayaun Thunga Ful Ka Hami.mp3 in Resources */,
+				8851378423620F8100FF94ED /* flag-of-nepal.jpg in Resources */,
+				88EE08F623691616000E44B6 /* Jaga Chamka Lamka He Naujawan Ho.mp3 in Resources */,
+				88EE08FC236A2678000E44B6 /* Pahad Ma Jado Bade Tarai Le Seknu Parcha.mp3 in Resources */,
+				88EE08F2236914D0000E44B6 /* Yo Maan Ta Mero Nepali Ho.mp3 in Resources */,
+				8851378723629A4100FF94ED /* Shreeman Ghambhira Nepali.mp3 in Resources */,
+				88EE08FA236A2582000E44B6 /* Hatne Hoina Dati Ladne Nepali Ko Bani Huncha.mp3 in Resources */,
+				88EE08E823690FF4000E44B6 /* Gaunchha Geet Nepali.mp3 in Resources */,
+				88EE08E6236787DC000E44B6 /* Assets.xcassets in Resources */,
+				88EE08EC23691232000E44B6 /* Jaha Chan Buddha Ka Aankha.mp3 in Resources */,
 				8851377423620CAD00FF94ED /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -144,6 +226,8 @@
 				8851377123620CAD00FF94ED /* ViewController.swift in Sources */,
 				8851376D23620CAD00FF94ED /* AppDelegate.swift in Sources */,
 				8851376F23620CAD00FF94ED /* SceneDelegate.swift in Sources */,
+				8851378A23629B2E00FF94ED /* SongsTableViewController.swift in Sources */,
+				8851378C2362A81F00FF94ED /* PlayViewController.swift in Sources */,
 				8851377723620CAD00FF94ED /* NepaliAnthems.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,6 +373,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = T73Z4N86QC;
 				INFOPLIST_FILE = NepaliAnthems/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -306,6 +391,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = T73Z4N86QC;
 				INFOPLIST_FILE = NepaliAnthems/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
