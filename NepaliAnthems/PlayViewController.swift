@@ -8,6 +8,7 @@
 
 import UIKit
 import AVFoundation
+import FLAnimatedImage
 
 class PlayViewController: UIViewController {
     
@@ -19,7 +20,7 @@ class PlayViewController: UIViewController {
     @IBOutlet weak var TitleLabel: UILabel!
     @IBOutlet weak var volumeSlider: UISlider!
     @IBOutlet weak var playPauseButton: UIButton!
-    
+    @IBOutlet weak var animatedFlag: FLAnimatedImageView!
     @IBOutlet weak var TimeLabel: UILabel!
     
     @IBOutlet weak var audioSlider: UISlider!
@@ -63,7 +64,11 @@ class PlayViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        let path1 : String = Bundle.main.path(forResource: "Nepal", ofType: "gif")!
+        let url = URL(fileURLWithPath: path1)
+        let gifData = try? Data(contentsOf: url)
+        let imageData1 = try? FLAnimatedImage(animatedGIFData: gifData)
+        animatedFlag.animatedImage = imageData1
         playSong()
         TitleLabel.text = songName
         UIApplication.shared.isIdleTimerDisabled = true
