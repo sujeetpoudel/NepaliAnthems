@@ -64,7 +64,7 @@ class PlayViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        let path1 : String = Bundle.main.path(forResource: "Nepal", ofType: "gif")!
+        let path1 : String = Bundle.main.path(forResource: "flag", ofType: "jpeg")!
         let url = URL(fileURLWithPath: path1)
         let gifData = try? Data(contentsOf: url)
         let imageData1 = try? FLAnimatedImage(animatedGIFData: gifData)
