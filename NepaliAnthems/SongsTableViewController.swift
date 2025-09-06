@@ -10,7 +10,7 @@ import UIKit
 
 class SongsTableViewController: UITableViewController {
     
-    let songsName = ["Sayaun Thunga Ful Ka Hami", "Shreeman Ghambhira Nepali", "Gaunchha Geet Nepali", "Jhukdai Na Jhukne Nepal Ko Choro", "Jaha Chan Buddha Ka Aankha", "Paschim Kohi Purba Ghar", "Yeha Deshko Cha Chinta", "Yo Maan Ta Mero Nepali Ho", "Saye Thari Baja Eutai Taal", "Jaga Chamka Lamka He Naujawan Ho", "Bihana Uthne Bittikai Himal Herna Paios", "Hatne Hoina Dati Ladne Nepali Ko Bani Huncha", "Pahad Ma Jado Bade Tarai Le Seknu Parcha"]
+    let songsName = ["Sayaun Thunga Ful Ka Hami", "Shreeman Ghambhira Nepali", "Gaunchha Geet Nepali", "Jhukdai Na Jhukne Nepal Ko Choro", "Jaha Chan Buddha Ka Aankha", "Paschim Kohi Purba Ghar", "Yeha Deshko Cha Chinta", "Yo Maan Ta Mero Nepali Ho", "Saye Thari Baja Eutai Taal", "Jaga Chamka Lamka He Naujawan Ho", "Bihana Uthne Bittikai Himal Herna Paios", "Hatne Hoina Dati Ladne Nepali Ko Bani Huncha", "Pahad Ma Jado Bade Tarai Le Seknu Parcha", "Aarati Shree Pashupati Nath"]
     
     override func viewDidLoad() {
         

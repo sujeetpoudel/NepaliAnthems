@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6812DF85B2FB653F3062D268 /* Pods_NepaliAnthems.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B284C8B727F311AC4BD2F58A /* Pods_NepaliAnthems.framework */; };
+		820CB1C92E6CCA210095101A /* Aarati Shree Pashupati Nath.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 820CB1C82E6CCA210095101A /* Aarati Shree Pashupati Nath.mp3 */; };
 		8851376D23620CAD00FF94ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8851376C23620CAD00FF94ED /* AppDelegate.swift */; };
 		8851376F23620CAD00FF94ED /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8851376E23620CAD00FF94ED /* SceneDelegate.swift */; };
 		8851377123620CAD00FF94ED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8851377023620CAD00FF94ED /* ViewController.swift */; };
@@ -41,6 +42,7 @@
 /* Begin PBXFileReference section */
 		035D5BC380AE6BBAA307F1B0 /* Pods-NepaliAnthems.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NepaliAnthems.release.xcconfig"; path = "Target Support Files/Pods-NepaliAnthems/Pods-NepaliAnthems.release.xcconfig"; sourceTree = "<group>"; };
 		421D6B44A77C9FEAFBADFA5E /* Pods-NepaliAnthems.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NepaliAnthems.debug.xcconfig"; path = "Target Support Files/Pods-NepaliAnthems/Pods-NepaliAnthems.debug.xcconfig"; sourceTree = "<group>"; };
+		820CB1C82E6CCA210095101A /* Aarati Shree Pashupati Nath.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Aarati Shree Pashupati Nath.mp3"; sourceTree = "<group>"; };
 		8851376923620CAD00FF94ED /* NepaliAnthems.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NepaliAnthems.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8851376C23620CAD00FF94ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8851376E23620CAD00FF94ED /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				88EE08F1236914D0000E44B6 /* Yo Maan Ta Mero Nepali Ho.mp3 */,
 				88EE08FB236A2678000E44B6 /* Pahad Ma Jado Bade Tarai Le Seknu Parcha.mp3 */,
 				88EE08ED2369131C000E44B6 /* Paschim Kohi Purba Ghar.mp3 */,
+				820CB1C82E6CCA210095101A /* Aarati Shree Pashupati Nath.mp3 */,
 				88EE08EB23691232000E44B6 /* Jaha Chan Buddha Ka Aankha.mp3 */,
 				88EE08E923691138000E44B6 /* Jhukdai Na Jhukne Nepal Ko Choro.mp3 */,
 				88EE08E723690FF4000E44B6 /* Gaunchha Geet Nepali.mp3 */,
@@ -239,6 +242,7 @@
 				88EE08E6236787DC000E44B6 /* Assets.xcassets in Resources */,
 				88EE08EC23691232000E44B6 /* Jaha Chan Buddha Ka Aankha.mp3 in Resources */,
 				8851377423620CAD00FF94ED /* Main.storyboard in Resources */,
+				820CB1C92E6CCA210095101A /* Aarati Shree Pashupati Nath.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
